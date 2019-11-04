@@ -1,0 +1,6 @@
+[submodule "readerwriterqueue"]
+	path = readerwriterqueue
+	url = git@github.com:akshatsikarwar/readerwriterqueue.git
+[submodule "comdb2"]
+	path = comdb2
+	url = git@github.com:akshatsikarwar/comdb2.git
