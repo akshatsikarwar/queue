@@ -7,6 +7,7 @@ LINK.o=$(LINK.cc)
 run:bench
 	time ./bench a
 	time ./bench b
+	time ./bench c
 bench:
 clean:
 	rm bench
